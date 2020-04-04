@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.1d293052.chunk.js",
-    "main.js.map": "/static/js/main.1d293052.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e259c6ef.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e259c6ef.js.map",
-    "static/js/2.6723a1ec.chunk.js": "/static/js/2.6723a1ec.chunk.js",
-    "static/js/2.6723a1ec.chunk.js.map": "/static/js/2.6723a1ec.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.826025fac9db827abc72b47af7ea66da.js": "/precache-manifest.826025fac9db827abc72b47af7ea66da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.6723a1ec.chunk.js.LICENSE.txt": "/static/js/2.6723a1ec.chunk.js.LICENSE.txt"
+    "main.js": "/pixabayapi/static/js/main.52ed9738.chunk.js",
+    "main.js.map": "/pixabayapi/static/js/main.52ed9738.chunk.js.map",
+    "runtime-main.js": "/pixabayapi/static/js/runtime-main.a7ed740f.js",
+    "runtime-main.js.map": "/pixabayapi/static/js/runtime-main.a7ed740f.js.map",
+    "static/js/2.6723a1ec.chunk.js": "/pixabayapi/static/js/2.6723a1ec.chunk.js",
+    "static/js/2.6723a1ec.chunk.js.map": "/pixabayapi/static/js/2.6723a1ec.chunk.js.map",
+    "index.html": "/pixabayapi/index.html",
+    "precache-manifest.7666061956f4e052b4f56b991e875f2f.js": "/pixabayapi/precache-manifest.7666061956f4e052b4f56b991e875f2f.js",
+    "service-worker.js": "/pixabayapi/service-worker.js",
+    "static/js/2.6723a1ec.chunk.js.LICENSE.txt": "/pixabayapi/static/js/2.6723a1ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e259c6ef.js",
+    "static/js/runtime-main.a7ed740f.js",
     "static/js/2.6723a1ec.chunk.js",
-    "static/js/main.1d293052.chunk.js"
+    "static/js/main.52ed9738.chunk.js"
   ]
 }
